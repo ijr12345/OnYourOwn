@@ -52,10 +52,10 @@ navBarTemplate.innerHTML = `
     </head>
 
     <div class="topnav">
-        <a href="contact.html" id="contactButton">Contact Us</a>
+        <a href="pages/contact.html" id="contactButton">Contact Us</a>
         <a href="">Emergency Services</a>
         <a href="">Education</a>
-        <a href="health.html">Health</a>
+        <a href="pages/health.html">Health</a>
         <a href="">Work</a>
         <a href="">Food</a>
         <a href="">Housing</a>
