@@ -72,6 +72,7 @@ class NavBarElement extends HTMLElement {
     const shadowRoot = this.attachShadow({ mode: 'closed' });
 
     shadowRoot.appendChild(navBarTemplate.content);
+    //shadowRoot.insertBefore(navBarTemplate.content);
   }
 }
 

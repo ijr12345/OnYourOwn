@@ -1,0 +1,116 @@
+main {
+    padding-top: 100px;;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home_intro_section {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr;
+    column-gap: 0px;
+    margin-left: 180px;
+    margin-top: 70px;
+    margin-bottom: 200px;
+}
+
+.welcomText h1{
+    font-size: 60px;
+    line-height: 65px;
+    margin-bottom: 0;
+}
+
+.welcomText p {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+#surveyButton {
+    color: white;
+    background-color: #3CA89A;
+    border-radius: 25px;
+    font-size: 15px;
+    padding:10px;
+    border:none; 
+    outline:none;
+}
+
+#surveyButton:hover {
+    background-color: #FF6F06;
+}
+
+/* Create three equal columns that floats next to each other */
+.featured_articles_column {
+    float: left;
+    width: 23%;
+    /* padding: 10px; */
+    height: 380px; /* Should be removed. Only for demonstration */
+    margin-left: 9%;
+    border-radius: 25px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+
+.featured_articles_column img {
+    width: 320px;
+    height:auto;
+    border-radius: 10px;
+    margin-left:10px;
+    margin-top: 10px;
+}
+
+.featured_articles_column h2 {
+    padding-left: 20px;
+    color: black;
+}
+
+.featured_articles_column hr {
+    width: 90%;
+}
+
+/* Clear floats after the columns */
+.featured_articles_row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#home_articles_section {
+    background-color: #3CA89A;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#featured_title {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: white;
+    padding-bottom: 30px;
+}
+
+.articleButton {
+    color: white;
+    background-color: #FF6F06;
+    border-radius: 5px;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 250px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+.articleButton:hover {
+    background-color: #3CA89A;
+}
+
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
