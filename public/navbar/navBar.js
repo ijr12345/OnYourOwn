@@ -59,7 +59,7 @@ navBarTemplate.innerHTML = `
         <a href="">Work</a>
         <a href="">Food</a>
         <a href="">Housing</a>
-        <a href="home.html" id="websiteLogo">On Your Own</a>
+        <a href="../index.html" id="websiteLogo">On Your Own</a>
     </div>
 `;
 
