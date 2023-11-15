@@ -1,0 +1,71 @@
+main .table-of-services {
+    width: 20%;
+    float: left;
+    background-color: #F1F1F1;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    min-height: 80px;
+}
+
+main .intro-textbox {
+    width: 30%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-left: 100px;
+    line-height: 25px;
+    min-height: 190px;
+
+    background-color: #F1F1F1;
+} 
+
+main .intro-text {
+    font-size: 15px;
+    color: black;
+}
+
+main .all-services {
+    margin-top: 180px;
+    margin-left: 29%;
+    color: black;
+    width: 70%;
+}
+
+/* service types (Food, education, etc.) */
+main .service-type-name {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FF6F06;
+    text-decoration: underline;
+    padding-top: 50px;
+}
+
+/* each service 'block' */
+main .service {
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+main .service-name {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+main .service-text {
+    font-size: 16px;
+    padding-top: 20px;
+    word-wrap: normal;
+    line-height: 25px;
+}
+
+main a {
+    text-decoration: none;
+    color: #FF6F06;
+}

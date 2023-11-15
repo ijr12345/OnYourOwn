@@ -53,13 +53,13 @@ navBarTemplate.innerHTML = `
 
     <div class="topnav">
         <a href="contact.html" id="contactButton">Contact Us</a>
-        <a href="">Emergency Services</a>
-        <a href="">Education</a>
+        <a href="emergency.html">Emergency Services</a>
+        <a href="education.html">Education</a>
         <a href="health.html">Health</a>
-        <a href="">Work</a>
-        <a href="">Food</a>
-        <a href="">Housing</a>
-        <a href="">Financial</a>
+        <a href="work.html">Work</a>
+        <a href="food.html">Food</a>
+        <a href="housing.html">Housing</a>
+        <a href="financial.html">Financial</a>
         <a href="../index.html" id="websiteLogo">On Your Own</a>
     </div>
 `;
