@@ -114,3 +114,51 @@ footer {
     padding-bottom: 25px;
     text-align: center;
 }
+
+/* Onboarding Stuff */
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+  }
+  
+  .survey {
+    background: #fff;
+    width: 70%;
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .likert-scale {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  #submitSurvey {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    outline: none;
+  }
