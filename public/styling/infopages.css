@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main .main-info-content {
+    padding-top: 0;
+}
+
+main .info-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+main .intro-links{
+    padding-left: 20%;
+    padding-top: 30px;
+    font-size: 23px;
+    color: #3CA89A;
+}
+
+main .intro-links a {
+    color: #3CA89A;
+    text-decoration: none;
+}
+
+main .table-of-contents {
+    width: 40%;
+    float: left;
+    margin-right: 10px;
+    background-color: #F1F1F1;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    min-height: 80px;
+}
+
+main .links-title {
+    color: black;
+    font-weight: 600;
+    font-size: 23px;
+    padding-bottom: 10px;
+}
+
+main .resource-links {
+    width: 30%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+
+    background-color: #F1F1F1;
+}
+
+main .articles {
+    padding-top: 50px;
+    padding-left: 45px;
+    color: black;
+    width: 70%;
+}
+
+main .sub-article-title {
+    font-weight:600;
+    font-size: 25px;
+    padding-top: 60px;
+}
+
+main .sub-article-text {
+    font-size: 16px;
+    padding-top: 20px;
+    word-wrap: normal;
+    line-height: 25px;
+}
+
+#back-to-top-button {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #FF6F06; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+}
+  
+#back-to-top-button:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}

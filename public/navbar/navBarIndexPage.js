@@ -48,7 +48,7 @@ navBarTemplate.innerHTML = `
     </style>
 
     <head>
-        <link rel="stylesheet" type="text/css" href="navBarStyling.css" />
+        <link rel="stylesheet" type="text/css" href="navbar/navBarStyling.css" />
     </head>
 
     <div class="topnav">
@@ -59,6 +59,7 @@ navBarTemplate.innerHTML = `
         <a href="">Work</a>
         <a href="">Food</a>
         <a href="">Housing</a>
+        <a href="">Financial</a>
         <a href="" id="websiteLogo">On Your Own</a>
     </div>
 `;
