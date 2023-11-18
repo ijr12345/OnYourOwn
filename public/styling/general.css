@@ -141,7 +141,7 @@ footer {
 .switch {
     position: relative;
     display: flex;
-    justify-content: rightS;
+    float: right;
     width: 60px;
     height: 34px;
   }
