@@ -3,7 +3,7 @@ document.getElementById("surveyButton").addEventListener("click", function() {
 });
   
 document.getElementById("submitSurvey").addEventListener("click", function() {
-  alert("Survey submitted.");
+  //alert("Survey submitted.");
   document.getElementById("overlay").style.display = "none";
   window.location.href = "pages/results.html";
 });
