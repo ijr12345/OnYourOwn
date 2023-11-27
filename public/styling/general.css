@@ -197,6 +197,18 @@ footer {
   #submitSurvey {
     display: block;
     margin: 20px auto;
+    color: white;
+    background-color: #3CA89A;
+    border-radius: 10px;
+    height: 40px;
+    width: 110px;
+    border: none;
+    font-size: 30px;
+  }
+
+
+  #submitSurvey:hover {
+    background-color: #FF6F06;
   }
   
   .close-button {
