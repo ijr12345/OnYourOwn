@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
     selectedTopics.forEach(topic => {
         const topicElement = document.createElement("p");
         topicElement.textContent = topic;
-        selectedTopicsContainer.appendChild(topicElement);
+        // selectedTopicsContainer.appendChild(topicElement);
 
         // create hidden container for each topic
         const topicContentContainer = document.getElementById("topicContentContainer");
