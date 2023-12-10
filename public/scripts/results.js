@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 topicContent.innerHTML = `
 <div class="survey-articles">
     <div class="survey-article">
-    <img src="../images/heather-mckean-1I9bMlIAIBM-unsplash.jpg" alt="girl on computer" class="survey-article-image">
+    <img src="../images/annie-spratt-CV3nkG7XIwg-unsplash.jpg" alt="girl on computer" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
                 Establishing Your Financial Independence
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
 
     <div class="survey-article">
-    <img src="../images/heather-mckean-1I9bMlIAIBM-unsplash.jpg" alt="girl on computer" class="survey-article-image">
+    <img src="../images/annie-spratt-CV3nkG7XIwg-unsplash.jpg" alt="girl on computer" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
                 Establishing Credit
