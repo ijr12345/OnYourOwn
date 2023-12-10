@@ -127,97 +127,96 @@ footer {
     z-index: 1;
   }
   
-  .survey {
-    background: #fff;
-    width: 70%;
-    max-width: 600px;
-    margin: 100px auto;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-  }
+.survey {
+  background: #fff;
+  width: 70%;
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
   
-  /* The switch - the box around the slider */
 .switch {
-    position: relative;
-    display: flex;
-    float: right;
-    width: 60px;
-    height: 34px;
-  }
-  
-  /* Hide default HTML checkbox */
-  .switch input {
-    opacity: 0;
-    width: 0;
-    height: 0;
-  }
-  
-  .slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #ccc;
-    -webkit-transition: .4s;
-    transition: .4s;
-    border-radius: 34px;
-  }
-  
-  .slider:before {
-    position: absolute;
-    float: right;
-    content: "";
-    height: 26px;
-    width: 26px;
-    left: 4px;
-    bottom: 4px;
-    background-color: white;
-    -webkit-transition: .4s;
-    transition: .4s;
-    border-radius: 50%;
-  }
-  
-  input:checked + .slider {
-    background-color: #3CA89A;
-  }
-  
-  input:focus + .slider {
-    box-shadow: 0 0 1px #3CA89A;
-  }
-  
-  input:checked + .slider:before {
-    -webkit-transform: translateX(26px);
-    -ms-transform: translateX(26px);
-    transform: translateX(26px);
-  }
-  
-  #submitSurvey {
-    display: block;
-    margin: 20px auto;
-    color: white;
-    background-color: #3CA89A;
-    border-radius: 10px;
-    height: 40px;
-    width: 110px;
-    border: none;
-    font-size: 30px;
-  }
+  position: relative;
+  display: flex;
+  float: right;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 34px;
+}
+
+.slider:before {
+  position: absolute;
+  float: right;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #3CA89A;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #3CA89A;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+#submitSurvey {
+  display: block;
+  margin: 20px auto;
+  color: white;
+  background-color: #3CA89A;
+  border-radius: 10px;
+  height: 40px;
+  width: 110px;
+  border: none;
+  font-size: 30px;
+}
 
 
-  #submitSurvey:hover {
-    background-color: #FF6F06;
-  }
-  
-  .close-button {
-    float: right;
-    top: 10px;
-    right: 10px;
-    font-size: 20px;
-    cursor: pointer;
-    background: transparent;
-    border: none;
-    outline: none;
-  }
+#submitSurvey:hover {
+  background-color: #FF6F06;
+}
+
+.close-button {
+  float: right;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  outline: none;
+}
