@@ -52,7 +52,34 @@ document.addEventListener("DOMContentLoaded", function() {
                 topicContent.innerHTML = "Housing links";
                 break;
             case "Food":
-                topicContent.innerHTML = "Food links";
+                topicContent.innerHTML = `
+<div class="survey-articles">
+    <div class="survey-article">
+    <img src="../images/heather-mckean-1I9bMlIAIBM-unsplash.jpg" alt="jars of food" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-1">
+                Healthy Eating
+            </div>
+            <div class="survey-article-text">
+                The key to healthy and enjoyable eating without very much money is to buy what you can cheaply and prepare it in as many different ways as you can. The precise items used from person to person will vary, but the following are some helpful guidelines...
+            </div>
+        </div>
+        <a href="../pages/food.html#article-1" class="articleButton">&#8594;</a>
+    </div>
+
+    <div class="survey-article">
+    <img src="../images/heather-mckean-1I9bMlIAIBM-unsplash.jpg" alt="jars of food" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-2">
+                Nonperishable foods
+            </div>
+            <div class="survey-article-text">
+            A tried and true method for making your dollar go farther while staying healthy is to stock plenty of non-perishable items. Broadly, these items fall into a few categories...            </div>
+        </div>
+        <a href="../pages/food.html#article-2" class="articleButton">&#8594;</a>
+    </div>
+</div>
+                `;
                 break;
             case "Work":
                 topicContent.innerHTML = "Work links";
