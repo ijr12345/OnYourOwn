@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 topicContent.innerHTML = `
 <div class="survey-articles">
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/ian-macdonald-W8z6aiwfi1E-unsplash.jpg" alt="house" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
                 What to do if you don't have a cosigner
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
 
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/ian-macdonald-W8z6aiwfi1E-unsplash.jpg" alt="house" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
                 Finding stable housing
@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
 
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/ian-macdonald-W8z6aiwfi1E-unsplash.jpg" alt="house" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-3">
                 Finding temporary housing
@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 topicContent.innerHTML = `
 <div class="survey-articles">
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/resume-genius-9si2noVCVH8-unsplash.jpg" alt="Resume" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
                 How to build your resume
@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
 
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/eric-prouzet-B3UFXwcVbc4-unsplash.jpg" alt="Now hiring sign" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
                 Everything to know about applying to jobs
@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 topicContent.innerHTML = `
 <div class="survey-articles">
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash.jpg" alt="Stethoscope" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
                 Get Insurance
@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
 
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash.jpg" alt="Stethoscope" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
                 List of Suggested Annual Checkups
@@ -188,7 +188,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 topicContent.innerHTML = `
 <div class="survey-articles">
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/element5-digital-OyCl7Y4y0Bk-unsplash.jpg" alt="school supplies" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
                 Applying to Colleges and Universities
@@ -201,7 +201,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
 
     <div class="survey-article">
-    <img src="../images/" alt="" class="survey-article-image">
+    <img src="../images/element5-digital-OyCl7Y4y0Bk-unsplash.jpg" alt="school supplies" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
                 Get your GED
