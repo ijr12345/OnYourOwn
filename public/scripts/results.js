@@ -49,13 +49,54 @@ document.addEventListener("DOMContentLoaded", function() {
                 `;
                 break;
             case "Housing":
-                topicContent.innerHTML = "Housing links";
+                topicContent.innerHTML = `
+<div class="survey-articles">
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-1">
+                What to do if you don't have a cosigner
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/housing.html#article-2" class="articleButton">&#8594;</a>
+    </div>
+
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-2">
+                Finding stable housing
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/financial.html#article-2" class="articleButton">&#8594;</a>
+    </div>
+
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-3">
+                Finding temporary housing
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/financial.html#article-3" class="articleButton">&#8594;</a>
+    </div>
+</div>
+                `;
                 break;
             case "Food":
                 topicContent.innerHTML = `
 <div class="survey-articles">
     <div class="survey-article">
-    <img src="../images/heather-mckean-1I9bMlIAIBM-unsplash.jpg" alt="jars of food" class="survey-article-image">
+    <img src="../images/ella-olsson-KPDbRyFOTnE-unsplash.jpg" alt="vegetables being prepared" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
                 Healthy Eating
@@ -82,18 +123,98 @@ document.addEventListener("DOMContentLoaded", function() {
                 `;
                 break;
             case "Work":
-                topicContent.innerHTML = "Work links";
+                topicContent.innerHTML = `
+<div class="survey-articles">
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-1">
+                How to build your resume
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/work.html#article-1" class="articleButton">&#8594;</a>
+    </div>
+
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-2">
+                Everything to know about applying to jobs
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/food.html#article-2" class="articleButton">&#8594;</a>
+    </div>
+</div>
+                `;
                 break;
             case "Health":
-                topicContent.innerHTML = "Health links";
+                topicContent.innerHTML = `
+<div class="survey-articles">
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-1">
+                Get Insurance
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/health.html#article-2" class="articleButton">&#8594;</a>
+    </div>
+
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-2">
+                List of Suggested Annual Checkups
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/health.html#article-2" class="articleButton">&#8594;</a>
+    </div>
+</div>
+                `;
                 break;
             case "Education":
-                topicContent.innerHTML = "Education links";
+                topicContent.innerHTML = `
+<div class="survey-articles">
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-1">
+                Applying to Colleges and Universities
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/education.html#article-2" class="articleButton">&#8594;</a>
+    </div>
+
+    <div class="survey-article">
+    <img src="../images/" alt="" class="survey-article-image">
+        <div class="survey-article-content">
+            <div class="survey-article-title" id="article-2">
+                Get your GED
+            </div>
+            <div class="survey-article-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            </div>
+        </div>
+        <a href="../pages/education.html#article-2" class="articleButton">&#8594;</a>
+    </div>
+</div>
+                `;
                 break;
-            case "Emergency Services":
-                topicContent.innerHTML = "Emergency Services links";
-                break;
-            // Add more cases as needed for other topics
         }
 
         topicContentContainer.appendChild(topicContent);
