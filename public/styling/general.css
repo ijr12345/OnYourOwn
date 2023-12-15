@@ -42,6 +42,11 @@ body {
     background-color: #FF6F06;
 }
 
+
+.social-media-icons {
+    text-align: center;
+    margin-top: 20px;
+}
 /* Create three equal columns that floats next to each other */
 .featured_articles_column {
     float: left;
