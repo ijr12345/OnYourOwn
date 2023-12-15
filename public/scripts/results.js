@@ -55,10 +55,10 @@ document.addEventListener("DOMContentLoaded", function() {
     <img src="../images/ian-macdonald-W8z6aiwfi1E-unsplash.jpg" alt="house" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
-                What to do if you don't have a cosigner
+                Finding a Place to Crash
             </div>
             <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+                If you just need somewhere to spend a night or two, it’s often as simple as finding friends or family who would be willing to help. These arrangements have the potential to grow and become more permanent, especially if you and whoever you’re staying with are close, but it’s important to remember that if all they offered was a place to crash, that's all that they offered. These are ideal in situations of crisis while you work toward more permanent accommodations...
             </div>
         </div>
         <a href="../pages/housing.html#article-2" class="articleButton">&#8594;</a>
@@ -68,26 +68,13 @@ document.addEventListener("DOMContentLoaded", function() {
     <img src="../images/ian-macdonald-W8z6aiwfi1E-unsplash.jpg" alt="house" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
-                Finding stable housing
+                Finding a Room to Rent
             </div>
             <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+            Often, the quickest way to find a place to live is to find others looking for someone to live with them. If you look online (facebook, craigslist, etc.,), it shouldn't take long to find people advertising a room to rent or a lease to take over. Each situation is highly unique but it’s important to get the details before you consider saying yes, and that you be aware of what securities you may or may not have. Meeting with all of the roommates (preferably multiple times) is essential, and whether you’ll be on the lease or moving in off a handshake deal is vital information. If you’re not on the lease, you will not be entitled to legal protections and need to be prepared for the worst...
             </div>
         </div>
         <a href="../pages/financial.html#article-2" class="articleButton">&#8594;</a>
-    </div>
-
-    <div class="survey-article">
-    <img src="../images/ian-macdonald-W8z6aiwfi1E-unsplash.jpg" alt="house" class="survey-article-image">
-        <div class="survey-article-content">
-            <div class="survey-article-title" id="article-3">
-                Finding temporary housing
-            </div>
-            <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
-            </div>
-        </div>
-        <a href="../pages/financial.html#article-3" class="articleButton">&#8594;</a>
     </div>
 </div>
                 `;
@@ -132,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 How to build your resume
             </div>
             <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+                Before you can get a job, you’ll need to apply for one, and whatever job you’re applying for, it's likely that they’ll ask to see your resume before anything else. Your resume is your foot in the door and often the way you’ll make your first impression, so it’s important to do it right...
             </div>
         </div>
         <a href="../pages/work.html#article-1" class="articleButton">&#8594;</a>
@@ -142,10 +129,10 @@ document.addEventListener("DOMContentLoaded", function() {
     <img src="../images/eric-prouzet-B3UFXwcVbc4-unsplash.jpg" alt="Now hiring sign" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
-                Everything to know about applying to jobs
+                Securing Important Documents
             </div>
             <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+                Once you’ve built a resume and begun the application and interview processes, it's important to make sure that you're ready to accept a position once you're offered one, and if you don’t have the necessary identification for one reason or another, then you’ll be in trouble...
             </div>
         </div>
         <a href="../pages/food.html#article-2" class="articleButton">&#8594;</a>
@@ -160,10 +147,10 @@ document.addEventListener("DOMContentLoaded", function() {
     <img src="../images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash.jpg" alt="Stethoscope" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
-                Get Insurance
+                Mental Health: Stress and Anxiety
             </div>
             <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+                Stress is a common aspect of life that everyone encounters at some point. It can be a fleeting moment or linger for days, impacting various aspects such as appetite, sleep, concentration, and social interactions. To prevent stress from becoming overwhelming, consider the following proven tips:...
             </div>
         </div>
         <a href="../pages/health.html#article-2" class="articleButton">&#8594;</a>
@@ -173,10 +160,10 @@ document.addEventListener("DOMContentLoaded", function() {
     <img src="../images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash.jpg" alt="Stethoscope" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
-                List of Suggested Annual Checkups
+                Maintaining Your Physical Health
             </div>
             <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+                For homeless teenagers, prioritizing physical health is a critical aspect of navigating life's challenges. The first step in this journey is securing a doctor who understands the unique circumstances faced by individuals experiencing homelessness. Fortunately, many communities have clinics or healthcare centers specifically designed to cater to the needs of those without stable housing. These facilities offer comprehensive medical services, ranging from routine check-ups to vaccinations, providing essential guidance on managing health concerns tailored to the challenges faced by homeless teens...
             </div>
         </div>
         <a href="../pages/health.html#article-2" class="articleButton">&#8594;</a>
@@ -191,10 +178,10 @@ document.addEventListener("DOMContentLoaded", function() {
     <img src="../images/element5-digital-OyCl7Y4y0Bk-unsplash.jpg" alt="school supplies" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-1">
-                Applying to Colleges and Universities
+                Getting Your GED
             </div>
             <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+                If your individual situation has, or is going to, prevent you from graduating highschool, it’s important to remember that education should still be on your mind. Many jobs require that applicants have a highschool diploma or equivalent certification before they will even be considered, and failing to have one can easily hold you back in your pursuit of financial security and employment. Any highschool equivalency will do the job when the time comes, but the GED (General Education Development) is the most widely accepted at institutions throughout the United States.
             </div>
         </div>
         <a href="../pages/education.html#article-2" class="articleButton">&#8594;</a>
@@ -204,10 +191,10 @@ document.addEventListener("DOMContentLoaded", function() {
     <img src="../images/element5-digital-OyCl7Y4y0Bk-unsplash.jpg" alt="school supplies" class="survey-article-image">
         <div class="survey-article-content">
             <div class="survey-article-title" id="article-2">
-                Get your GED
+                Paying for College or University
             </div>
             <div class="survey-article-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+                If you’ve decided to broaden your horizons and pursue a college or university degree, great news! There are tons of resources which exist to make this possible! While you may not be able to afford the tuition of an ivy league, a state school's tuition can often be largely, if not entirely, covered through financial aid in the form of grants, scholarships, and loans...
             </div>
         </div>
         <a href="../pages/education.html#article-2" class="articleButton">&#8594;</a>
